@@ -1,2 +1,2 @@
-Log_flag = true
-Log_path = log.log
+Log_flag=true;
+Log_path=log.log;
